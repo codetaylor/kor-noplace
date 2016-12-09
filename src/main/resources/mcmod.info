@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ctkornoplace",
+  "name": "CTKor Noplace",
+  "description": "Restrict the blocks that players can place in each dimension.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/codetaylor/kor-noplace",
+  "updateUrl": "",
+  "authorList": ["codetaylor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["ctkorlib"]
+}
+]
