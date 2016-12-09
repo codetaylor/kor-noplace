@@ -19,7 +19,7 @@ def getVersionName = { String workTree ->
 }
 
 project.ext.mcversion = "1.10.2"
-project.ext.korlibversion = project.ext.mcversion + "-0.1.0"
+project.ext.korlibversion = project.ext.mcversion + "-0.2.0"
 version = project.ext.mcversion + "-" + getVersionName("${project.projectDir}")
 group = "com.sudoplay.mc.kor"
 archivesBaseName = "ctkornoplace"
